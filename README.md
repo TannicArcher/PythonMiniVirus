@@ -1,2 +1,2 @@
 # PythonMiniVirus
-PythonMiniVirus created in 10 minutes
+PythonMiniVirus created in 5 minutes
